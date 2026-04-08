@@ -248,7 +248,7 @@
             <div class="section">
                 <h2>🚀 Server Info</h2>
                 <div class="server-ip">
-                    <div class="ip-text">melsamsmp.net</div>
+                    <div class="ip-text">melsamsmp.aternos.me</div>
                     <p style="color: #ccc;">Copy & Join Now!</p>
                 </div>
                 <p><strong>Version:</strong> 1.20.1+</p>
